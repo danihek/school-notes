@@ -1,0 +1,17 @@
+Transoptor jest zespołem elementów półprzewodnikowych umieszczonych w jednej obudowie i sprężonych ze soba optycznie.
+
+Zasadniczymi elementami transoptora są:
+
+- nadajnik (nazywany nazywany fotoemiterem)- emitujący sygnały świetlne pod wpływem przepływającego na wejściu układu prądu; najczęściej nadajnikiem jest dioda LED emitująca światło czerwone;
+ odbiornik światła (nazywany fotodetektorem) - zamieniajcy sygnał świetlny na elektryczny sygnał napięcia na wyjściu układu; odbiorikiem może być fotoreszystor, fotodioda, fototranzystor, fototriak bądź bramka logiczna;
+- element przewodzący światło (np. światłowód) - przenoszony przez transoptor sygnał może być sygnałem analogowym lub cyfrowym. W zależności od rodzaju sygnału przydatność transoptora określa inny parametr:
+  - sygnał cyfrowy - przy tym sygnale ważna jest szybkość transmisji danych określana przez częstotliwość graniczną,
+  - sygnał analogowy - przydatność transoptora przy stosowaniu tego rodzaju sygnału określa przekładnia prądowa CTR - (wzmocnienie transoptora)
+
+  CTR = Iwy/Iwe
+
+  Na wartość wzmocnienia transoptora ma wpływ przedewszystkim rodzaj zastosowanego fotodetektora. Największe wzmocnienie wykazuje transoptop z fotodetektorem w postaci tranzystorowego układu wzmacniającego zwanego układem Darlingtona.
+
+  Ważnym parametrem dla wszystkich rodzajów transoptorów jest napięcie izolacji (napięcie stałe lub zmienne). Jest to maksymalna wartość napięcia przyłożonego między zwarte zaciski wejściowe i wyjściowe transoptora, która nie powoduje przebicia elektrycznego jego izolacji. Wartości tego napięcia waha się od kilkuset woltów do kilkudziesięciu kilowoltów.
+  Transoptory, w zależności od rodzaju obudowy, w jakiej zostały wykonane, można podzielić na:
+    - zamknięte - służące głównie do izolacji galwanicznej obwodów

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"71ab78b28f07cf0b","type":"file","file":"TKM/Obciążenia i naprężenia.md","x":-860,"y":-550,"width":400,"height":620},
+		{"id":"ae0939290c772f31","type":"text","text":"OBCIĄŻENIA","x":-105,"y":-520,"width":250,"height":60,"color":"3"},
+		{"id":"a8b13627fc8478c2","type":"text","text":"Obciążenia nieustalone","x":235,"y":-240,"width":250,"height":60},
+		{"id":"412deccd3178a0ad","type":"text","text":"ZMIENNE\nobciązenia mieiajace się w czsie, przy czym charackter zmienności może być różnorodny","x":195,"y":-460,"width":250,"height":160},
+		{"id":"f82e77082a82b3a9","type":"text","text":"STAŁE\ntakie które ulegaja zmianom podczas pewneggo dostatecznie długiego czasu pracy maszyny","x":-385,"y":-430,"width":250,"height":190},
+		{"id":"5db5c5ce690eff54","x":-415,"y":-210,"width":280,"height":100,"type":"text","text":"Jednostką naprężenia w układzie SI jest:\n**[Pa]**"},
+		{"id":"122f45f47d86ef32","type":"text","text":"Obciązenia ustalone\n(cykliczne)","x":-15,"y":-160,"width":250,"height":60},
+		{"id":"8fa0a101d4eb2ebb","x":-418,"y":36,"width":258,"height":93,"type":"text","text":"**Styczne**\n\tprostopadłe do płaszczyzny działania sił"},
+		{"id":"6e44f5fd2eaaea39","x":-105,"y":70,"width":254,"height":88,"type":"text","text":"Nominalne\n\tleżące do płaszczyzny"},
+		{"id":"9dff9bfe500141a2","x":-138,"y":-40,"width":158,"height":50,"type":"text","text":"Naprężenia\n"}
+	],
+	"edges":[
+		{"id":"021c125a252dcbdb","fromNode":"ae0939290c772f31","fromSide":"left","toNode":"f82e77082a82b3a9","toSide":"top"},
+		{"id":"13c937d2b401cbf6","fromNode":"ae0939290c772f31","fromSide":"right","toNode":"412deccd3178a0ad","toSide":"top"},
+		{"id":"0ef7ac2811aa1b66","fromNode":"412deccd3178a0ad","fromSide":"left","toNode":"122f45f47d86ef32","toSide":"top"},
+		{"id":"1611f9f666258d99","fromNode":"412deccd3178a0ad","fromSide":"bottom","toNode":"a8b13627fc8478c2","toSide":"top"},
+		{"id":"37589557e1ede00b","fromNode":"ae0939290c772f31","fromSide":"bottom","toNode":"5db5c5ce690eff54","toSide":"right"},
+		{"id":"34796180709a32c6","fromNode":"9dff9bfe500141a2","fromSide":"left","toNode":"8fa0a101d4eb2ebb","toSide":"top"},
+		{"id":"5f9b1582fed6d0b1","fromNode":"9dff9bfe500141a2","fromSide":"right","toNode":"6e44f5fd2eaaea39","toSide":"top"}
+	]
+}
