@@ -55,4 +55,5 @@
 [[25. Podstawowe Funkcje Bramek Logicznych.md]]
 
 [[26.klasyfikacjaukladowscalonych.md]]
+
 [[27.oznaczeniacyfrowychukładówscalonych.md]]
