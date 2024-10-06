@@ -1,23 +1,25 @@
-# Wymagane Lektury
+# Lekcje:
 
-[[./00.LEKTURY_WYMAGANIA.md]]
+[[./00.PoetaiSilaFatalna.md]]
 
-## Lekcje:
+[[./01.BudowaiKompozycjaDziadyIIIcz.md]]
 
-[[./01.dziady.md]]
+[[./02.dziady.md]]
 
-[[./02.prometeizm.md]]
+[[./03.ObrazMeczenstwaWIIIczDziadow.md]]
 
-[[./03.mesjanizm.md]]
+[[./03.prometeizm.md]]
 
-[[./04.obraznarodupolskiego.md]]
+[[./04.mesjanizm.md]]
 
-[[./05.cechydramaturomantycznego.md]]
+[[./05.obraznarodupolskiego.md]]
 
-[[./07.dziadysynteza.md]]
+[[./06.cechydramaturomantycznego.md]]
 
-[[./08.fortepianshopena.md]]
+[[./08.dziadysynteza.md]]
 
-[[./09.wymagania.md]]
+[[./09.fortepianshopena.md]]
 
-[[./10.pozywityzm.md]]
+[[./10.wymagania.md]]
+
+[[./11.pozywityzm.md]]
