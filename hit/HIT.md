@@ -5,3 +5,5 @@
 [[./02.StanWojenny.md]]
 
 [[./03.nowafalastrajków.md]]
+
+[[./04.StanWojenny.md]]

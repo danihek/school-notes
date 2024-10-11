@@ -143,6 +143,16 @@
 
 [[66.silowniki_udarowe.md]]
 
+[[67.Tandemy.md]]
+
+[[./68.OdmianySiłownikówBeztłoczyskowych.md]]
+
+[[./69.NowoczesneKonstrukcjeSilownikowBeztloczyskowych.md]]
+
+[[./70.NietypoweSilowniki.md]]
+
+[[./71.SiłownikiMembranowe.md]]
+
 # Kartkówki - Powtórki
 [[93. Powtórka-Instalacje-H2.md]]
 

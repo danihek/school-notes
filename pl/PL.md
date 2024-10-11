@@ -23,3 +23,5 @@
 [[./10.wymagania.md]]
 
 [[./11.pozywityzm.md]]
+
+[[./12.PozytywityzmCiagDalszy.md]]

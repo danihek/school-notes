@@ -57,3 +57,7 @@
 [[26.klasyfikacjaukladowscalonych.md]]
 
 [[27.oznaczeniacyfrowychukładówscalonych.md]]
+
+[[./28.PodstawoweParametryUkladowCyfrowych.md]]
+
+[[./29.ObudowyUkladowScalonych.md]]
