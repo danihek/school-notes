@@ -25,3 +25,5 @@
 [[./11.pozywityzm.md]]
 
 [[./12.PozytywityzmCiagDalszy.md]]
+
+[[./13.NaukaOJezyku.md]]
