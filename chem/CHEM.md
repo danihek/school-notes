@@ -5,3 +5,5 @@
 [[./02.weglanwapnia.md]]
 
 [[./03.ReakcjeWSkorupieZiemskiej.md]]
+
+[[./04.gleba.md]]
