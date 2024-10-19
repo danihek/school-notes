@@ -153,6 +153,10 @@
 
 [[./71.SiłownikiMembranowe.md]]
 
+[[./72.NietypoweSilownikiDetkoweMembranowe.md]]
+
+[[./73.RodzajeUszczelnienwSilownikach.md]]
+
 # Kartkówki - Powtórki
 [[93. Powtórka-Instalacje-H2.md]]
 
