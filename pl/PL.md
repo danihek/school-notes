@@ -27,3 +27,5 @@
 [[./12.PozytywityzmCiagDalszy.md]]
 
 [[./13.NaukaOJezyku.md]]
+
+[[./14.RealizmiNaturalizm.md]]
