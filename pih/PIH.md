@@ -158,6 +158,9 @@
 [[./73.RodzajeUszczelnienwSilownikach.md]]
 
 # Kartkówki - Powtórki
+
+[[./92. Powtórka-Siłowniki.md]]
+
 [[93. Powtórka-Instalacje-H2.md]]
 
 [[94. Powtórka-Instalacje-P2.md]]
