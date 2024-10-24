@@ -61,3 +61,7 @@
 [[./28.PodstawoweParametryUkladowCyfrowych.md]]
 
 [[./29.ObudowyUkladowScalonych.md]]
+
+[[./30.Przerzutniki.md]]
+
+[[./31.PrzerzutnikiSynchroniczne.md]]
