@@ -157,6 +157,8 @@
 
 [[./73.RodzajeUszczelnienwSilownikach.md]]
 
+[[./74.Silniki-Wprowadzenie.md]]
+
 # Kartkówki - Powtórki
 
 [[./92. Powtórka-Siłowniki.md]]
