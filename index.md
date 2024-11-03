@@ -1,5 +1,6 @@
 # Danihek Notes
 
+## ZSEEIM
 1. [[./pl/PL.md]]     Polski
 2. [[./hit/HIT.md]]   HIT
 3. [[./biol/BIOL.md]] BIOL
@@ -9,3 +10,6 @@
 7. [[./eie/EIE.md]]   Elektrotechnika i elektronika
 8. [[./peie/PEIE.md]] Pracownia Elektrotechniki i elektroniki
 
+## Personal
+1. [[./CCNA/CCNA.md]] CCNA 
+2. [[JAPANESE/JP.md]] Japanese
