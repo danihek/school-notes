@@ -7,3 +7,7 @@
 [[./03.wiosnaludow.md]]
 
 [[./04.ZiemiePolskiePoKongresieWiedenskim.md]]
+
+[[./05.WielkaEmigracja.md]]
+
+[[./06.PowstanieKrakowskie.md]]
