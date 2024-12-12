@@ -67,3 +67,5 @@
 [[./31.PrzerzutnikiSynchroniczne.md]]
 
 [[./32.Konwersja_Przerzutnika_w_uklad_liczacy.md]]
+
+[[./33.Multiwibratory.md]]
