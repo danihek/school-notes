@@ -11,3 +11,5 @@
 [[./05.WielkaEmigracja.md]]
 
 [[./06.PowstanieKrakowskie.md]]
+
+[[./07.ZjednoczenieNiemiec.md]]
