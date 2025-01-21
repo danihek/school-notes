@@ -6,4 +6,4 @@
 
 [[./03.SymboleIoznaczeniawUkładachStycznikowoPrzekaznikowych.md]]
 
-[[./04.LącznikiElektromagnetyczne.md]]
+[[./04.LacznikiElektromagnetyczne.md]]
