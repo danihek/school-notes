@@ -7,3 +7,7 @@
 [[./03.ReakcjeWSkorupieZiemskiej.md]]
 
 [[./04.gleba.md]]
+
+[[./05.KartaPracySzklo.md]]
+
+[[./06.Alkeny.md]]

@@ -13,3 +13,7 @@
 [[./06.PowstanieKrakowskie.md]]
 
 [[./07.ZjednoczenieNiemiec.md]]
+
+[[./08.WojnaSecesyjnaUSA.md]]
+
+[[./09.ProcesyZjednoczeniowe.md]]

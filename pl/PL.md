@@ -33,3 +33,7 @@
 [[./15.NaukaoJezyku2.md]]
 
 [[./16.Lalka.md]]
+
+[[./17.LalkaPracaZTekstem.md]]
+
+[[./18.ObrazSpołeczeństwaPolskiegoWLalce.md]]

@@ -1,16 +1,17 @@
 # Danihek Notes
 
-## ZSEEIM
-2. [[./hit/HIT.md]]   HIT
-3. [[./biol/BIOL.md]] BIOL
-4. [[./hist/HIST.md]] HIST
-5. [[./chem/CHEM.md]] Chemia
-1. [[./pl/PL.md]]     Polski
+## School Subj
+0. [[./hit/HIT.md]]   HIT
+1. [[./chem/CHEM.md]] Chemia
+2. [[./pl/PL.md]]     Polski
+3. [[./biol/BIOL.md]] Biologia
+4. [[./hist/HIST.md]] Historia
+5. [[./niem/NIEM.md]] Niemiecki
 6. [[./pih/PIH.md]]   Pneumatyka i Hydraulika 
 7. [[./eie/EIE.md]]   Elektrotechnika i elektronika
-9. [[./usme/USME.md]] Urządzenia i Systemy Mechatroniczne
-8. [[./peie/PEIE.md]] Pracownia Elektrotechniki i elektroniki
+8. [[./usme/USME.md]] Urządzenia i Systemy Mechatroniczne
+9. [[./peie/PEIE.md]] Pracownia Elektrotechniki i elektroniki
 
-## Personal
-1. [[./CCNA/CCNA.md]] CCNA 
-2. [[./JAPANESE/JP.md]] Japanese
+## Personal / Addtional
+0. [[./CCNA/CCNA.md]] CCNA 
+1. [[./JAPANESE/JP.md]] Japanese
