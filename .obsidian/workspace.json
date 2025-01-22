@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "peie/07.Tabelka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "07.Tabelka"
             }
           }
         ],
@@ -179,8 +179,42 @@
   },
   "active": "39a39d55d3e8e60e",
   "lastOpenFiles": [
+    "peie/PEIE.md",
+    "peie/klasyodpornoscinauderzenia.png",
+    "peie/instrukcja17.jpg",
+    "peie/07.Tabelka.md",
+    "usme/symbole.excalidraw",
+    "usme/USME.md",
+    "usme/3-22.png",
+    "usme/03.SymboleIoznaczeniawUkładachStycznikowoPrzekaznikowych.md",
+    "usme/03-27.png",
+    "usme/03-26.png",
+    "usme/03-25.png",
+    "usme/03-24.png",
+    "usme/03-23cewkazopzonieniemprzywylaczaniu.md",
+    "usme/03-23.png",
+    "usme/03-22cewkazopzonieniemprzyzalaczeniu.md",
+    "usme/03-21cekwsaimpulsowaprzekaznikabistabilnego.png",
+    "usme/03-20cewkastcznikaprzekaznika.png",
+    "usme/02.BHP.md",
+    "usme/01.LekcjaOrg.md",
+    "usme",
+    "pl/18.ObrazSpołeczeństwaPolskiegoWLalce.md",
+    "pl/17.LalkaPracaZTekstem.md",
+    "niem/NIEM.md",
+    "niem",
+    "mat/matma.md",
+    "mat",
+    "hit/05.JesienNarodow.md",
+    "hist/08.WojnaSecesyjnaUSA.md",
+    "hist/07.ZjednoczenieNiemiec.md",
+    "eie/Budowa i funkcjonowanie układu moczowego.docx",
+    "eie/33.Multiwibratory.md",
+    "chem/06.Alkeny.md",
+    "biol/02.UkladMoczowy.md",
+    "peie/02.regulamin_pracowni.md",
+    "README.md",
     "index.md",
-    "hit/01.narodzinyopozycji.md",
-    "README.md"
+    "hit/01.narodzinyopozycji.md"
   ]
 }
