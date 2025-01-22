@@ -13,5 +13,5 @@
 9. [[./peie/PEIE.md]] Pracownia Elektrotechniki i elektroniki
 
 ## Personal / Addtional
-0. [[./CCNA/CCNA.md]] CCNA 
+0. [[./CISCO/CISCO.md.md]] CISCO
 1. [[./JAPANESE/JP.md]] Japanese
