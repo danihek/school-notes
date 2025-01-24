@@ -37,3 +37,7 @@
 [[./17.LalkaPracaZTekstem.md]]
 
 [[./18.ObrazSpołeczeństwaPolskiegoWLalce.md]]
+
+[[./19.LalkaJakoPRK.md]]
+
+[[./20.SkadTyleSlowWPolszczyznie.md]]
