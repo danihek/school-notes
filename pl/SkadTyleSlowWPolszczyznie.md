@@ -1,0 +1,41 @@
+# Skąd tyle słów w Polszczyźnie - wyrazy obce
+
+## Rodzaje zapożyczeń (3,4 - strona 104)
+
+## 1
+  9 galicyzm
+  8 germanizm
+  7 anglicyzmy
+  6 rusycyzmy
+  5 hungaryzmy
+  4 ukrainizmy
+  3 białorutenizmy
+  2 latynizmy
+
+## 3
+
+a) francyski
+b) niemiecki
+c) łaciński
+d) angielski
+e) rosyjski
+f) francuski
+g) rosyjski
+h) włoski
+i) angielski
+j) łaciński
+k) francuski
+l) angielski
+
+## 4
+
+- liderem (angielski)
+- żyrandol (francuski)
+- chargé d'affaires (francuski)
+- samodzierżawie (rosyjski)
+- pen drive'a (angielski)
+- racji (łaciński)
+- prikaz (rosyjski)
+- fanem (angielski)
+- aresztu (łaciński)
+- etażerka (francuski)
