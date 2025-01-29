@@ -7,3 +7,7 @@
 [[./03.SymboleIoznaczeniawUkładachStycznikowoPrzekaznikowych.md]]
 
 [[./04.LacznikiElektromagnetyczne.md]]
+
+[[./05.Styczniki.md]]
+
+[[./06.Przekazniki.md]]
