@@ -11,3 +11,7 @@
 [[./05.Styczniki.md]]
 
 [[./06.Przekazniki.md]]
+
+[[./07.RealizacjaFunkcjiLogicznych.md]]
+
+[[./08.Maszyny_Elektryczne.md]]
