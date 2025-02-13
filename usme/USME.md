@@ -15,3 +15,7 @@
 [[./07.RealizacjaFunkcjiLogicznych.md]]
 
 [[./08.Maszyny_Elektryczne.md]]
+
+[[./09.Silniki_Pradu_Stalego.md]]
+
+[[./10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md]]
