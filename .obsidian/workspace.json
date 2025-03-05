@@ -4,39 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "1ad6b73a03f2262d",
+        "id": "795c06ec4bfdbfac",
         "type": "tabs",
         "children": [
           {
-            "id": "1a21a3d96d06c25b",
+            "id": "f59644480e34cd0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "peie/08.WzmacniaczeOperacyjne.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "08.WzmacniaczeOperacyjne"
             }
           },
           {
-            "id": "39a39d55d3e8e60e",
+            "id": "c4aca45864756cb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "peie/07.Tabelka.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-03-03 11.42.29.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "07.Tabelka"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-03 11.42.29.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +62,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -92,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c07a458b637a19a6",
@@ -169,22 +178,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "39a39d55d3e8e60e",
+  "active": "f59644480e34cd0d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-03 11.42.29.excalidraw.md",
+    "peie/08.WzmacniaczeOperacyjne.md~",
+    "peie/08.WzmacniaczeOperacyjne.md",
+    "peie/07.Tabelka.md",
+    "Excalidraw",
+    "peie/zlyuklad.jpg",
+    "usme/09.Silniki_Pradu_Stalego.md",
+    "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md",
+    "Untitled.canvas",
+    "2025-03-03.md",
+    "usme/USME.md",
     "peie/PEIE.md",
+    "index.md",
     "peie/klasyodpornoscinauderzenia.png",
     "peie/instrukcja17.jpg",
-    "peie/07.Tabelka.md",
     "usme/symbole.excalidraw",
-    "usme/USME.md",
     "usme/3-22.png",
     "usme/03.SymboleIoznaczeniawUkładachStycznikowoPrzekaznikowych.md",
     "usme/03-27.png",
@@ -195,7 +217,6 @@
     "usme/03-23.png",
     "usme/03-22cewkazopzonieniemprzyzalaczeniu.md",
     "usme/03-21cekwsaimpulsowaprzekaznikabistabilnego.png",
-    "usme/03-20cewkastcznikaprzekaznika.png",
     "usme/02.BHP.md",
     "usme/01.LekcjaOrg.md",
     "usme",
@@ -212,9 +233,6 @@
     "eie/33.Multiwibratory.md",
     "chem/06.Alkeny.md",
     "biol/02.UkladMoczowy.md",
-    "peie/02.regulamin_pracowni.md",
-    "README.md",
-    "index.md",
-    "hit/01.narodzinyopozycji.md"
+    "peie/02.regulamin_pracowni.md"
   ]
 }
