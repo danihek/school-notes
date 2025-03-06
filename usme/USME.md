@@ -19,3 +19,6 @@
 [[./09.Silniki_Pradu_Stalego.md]]
 
 [[./10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md]]
+
+[[./11.Budowa_i_zasada_działania_silników_prądu_przemiennego.md]]
+

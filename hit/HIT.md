@@ -9,3 +9,5 @@
 [[./04.StanWojenny.md]]
 
 [[./05.JesienNarodow.md]]
+
+[[./06.PolskaPoczatekTransformacjiUstrojowej.md]]

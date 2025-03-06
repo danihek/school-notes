@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "peie/08.WzmacniaczeOperacyjne.md",
+                "file": "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "08.WzmacniaczeOperacyjne"
+              "title": "10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń"
             }
           },
           {
@@ -191,14 +191,28 @@
   },
   "active": "f59644480e34cd0d",
   "lastOpenFiles": [
+    "usme/11.Budowa_i_zasada_działania_silników_prądu_przemiennego.md~",
+    "hist/HIST.md~",
+    "hit/HIT.md~",
+    "niem/NIEM.md~",
     "Excalidraw/Drawing 2025-03-03 11.42.29.excalidraw.md",
-    "peie/08.WzmacniaczeOperacyjne.md~",
+    "usme/USME.md~",
+    "usme/11.Budowa_i_zasada_działania_silników_prądu_przemiennego.md",
+    "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md~",
+    "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md",
+    "usme/img/10.09.png",
+    "usme/img/10.08.png",
+    "usme/img/10.07.png",
+    "usme/img/10.06.png",
+    "usme/img/10.05.png",
+    "usme/img/10.04.png",
+    "usme/img/10.03.png",
     "peie/08.WzmacniaczeOperacyjne.md",
+    "peie/08.WzmacniaczeOperacyjne.md~",
     "peie/07.Tabelka.md",
     "Excalidraw",
     "peie/zlyuklad.jpg",
     "usme/09.Silniki_Pradu_Stalego.md",
-    "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md",
     "Untitled.canvas",
     "2025-03-03.md",
     "usme/USME.md",
@@ -207,16 +221,9 @@
     "peie/klasyodpornoscinauderzenia.png",
     "peie/instrukcja17.jpg",
     "usme/symbole.excalidraw",
-    "usme/3-22.png",
     "usme/03.SymboleIoznaczeniawUkładachStycznikowoPrzekaznikowych.md",
-    "usme/03-27.png",
-    "usme/03-26.png",
-    "usme/03-25.png",
-    "usme/03-24.png",
     "usme/03-23cewkazopzonieniemprzywylaczaniu.md",
-    "usme/03-23.png",
     "usme/03-22cewkazopzonieniemprzyzalaczeniu.md",
-    "usme/03-21cekwsaimpulsowaprzekaznikabistabilnego.png",
     "usme/02.BHP.md",
     "usme/01.LekcjaOrg.md",
     "usme",
@@ -225,14 +232,11 @@
     "niem/NIEM.md",
     "niem",
     "mat/matma.md",
-    "mat",
     "hit/05.JesienNarodow.md",
     "hist/08.WojnaSecesyjnaUSA.md",
     "hist/07.ZjednoczenieNiemiec.md",
-    "eie/Budowa i funkcjonowanie układu moczowego.docx",
     "eie/33.Multiwibratory.md",
     "chem/06.Alkeny.md",
-    "biol/02.UkladMoczowy.md",
-    "peie/02.regulamin_pracowni.md"
+    "biol/02.UkladMoczowy.md"
   ]
 }

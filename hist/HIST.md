@@ -17,3 +17,7 @@
 [[./08.WojnaSecesyjnaUSA.md]]
 
 [[./09.ProcesyZjednoczeniowe.md]]
+
+[[./10.KoloniaMocarstw.md]]
+
+[[./11.PowstanieStyczniowe.md]]
