@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "795c06ec4bfdbfac",
+        "id": "1c28ecded4c2105d",
         "type": "tabs",
         "children": [
           {
-            "id": "f59644480e34cd0d",
+            "id": "e8690f781777764e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md",
+                "file": "usme/15.Silniki_Jednofazowe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń"
-            }
-          },
-          {
-            "id": "c4aca45864756cb8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-03 11.42.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-03 11.42.29.excalidraw"
+              "title": "15.Silniki_Jednofazowe"
             }
           }
         ]
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,54 +177,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f59644480e34cd0d",
+  "active": "e8690f781777764e",
   "lastOpenFiles": [
-    "usme/11.Budowa_i_zasada_działania_silników_prądu_przemiennego.md~",
-    "hist/HIST.md~",
-    "hit/HIT.md~",
-    "niem/NIEM.md~",
-    "Excalidraw/Drawing 2025-03-03 11.42.29.excalidraw.md",
+    "usme/#15.Silniki_Jednofazowe.md#",
+    "usme/15.Silniki_Jednofazowe.md~",
+    "usme/14.Rozruch_silnika.md",
+    "usme/15.Silniki_Jednofazowe.md",
     "usme/USME.md~",
-    "usme/11.Budowa_i_zasada_działania_silników_prądu_przemiennego.md",
-    "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md~",
-    "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md",
-    "usme/img/10.09.png",
-    "usme/img/10.08.png",
-    "usme/img/10.07.png",
-    "usme/img/10.06.png",
-    "usme/img/10.05.png",
-    "usme/img/10.04.png",
-    "usme/img/10.03.png",
+    "usme/14.Rozruch_silnika.md~",
+    "usme/4913",
+    "usme/img/14.02.png",
+    "usme/img/14.01.png",
+    "usme/13.Silnik_pierścieniowy.md",
+    "eie/13. Laser.md",
+    "usme/img/14.00.png",
+    "Excalidraw/Drawing 2025-03-03 11.42.29.excalidraw.md",
+    "JAPANESE/01.Hiragana.md",
+    "peie/10.WzmacniaczeOperacyjne3.md~",
+    "Excalidraw/Drawing 2025-03-10 12.47.17.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-17 12.53.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-17 12.54.19.excalidraw.md",
+    "peie/10.WzmacniaczeOperacyjne3.md",
     "peie/08.WzmacniaczeOperacyjne.md",
-    "peie/08.WzmacniaczeOperacyjne.md~",
+    "09.Wzmacniacze3.md",
+    "peie/PEIE.md",
+    "peie/3.png",
+    "usme/12.PoslizgSilnikaAsynchronicznego.md",
+    "usme/12.PoslizgSilnikaAsynchronicznego.md~",
+    "peie/10.TransformatoryETC.md",
+    "peie/10.TransformatoryETC.md~",
+    "peie/10.05.png",
+    "peie/10.04.png",
+    "peie/10.03.png",
+    "peie/10.02.png",
+    "peie/10.00.png",
     "peie/07.Tabelka.md",
-    "Excalidraw",
-    "peie/zlyuklad.jpg",
+    "peie/06.UkladySterowaniaSilnikamiElektrycznymi.md",
+    "peie/09.WzmacniaczeOperacyjneZAD.md",
+    "peie/09.01.png",
+    "peie/PEIE.md~",
+    "peie/09.WzmacniaczeOperacyjneZAD.md~",
+    "peie/4913",
+    "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md",
+    "usme/11.Budowa_i_zasada_działania_silników_prądu_przemiennego.md",
     "usme/09.Silniki_Pradu_Stalego.md",
     "Untitled.canvas",
     "2025-03-03.md",
     "usme/USME.md",
-    "peie/PEIE.md",
     "index.md",
-    "peie/klasyodpornoscinauderzenia.png",
-    "peie/instrukcja17.jpg",
-    "usme/symbole.excalidraw",
-    "usme/03.SymboleIoznaczeniawUkładachStycznikowoPrzekaznikowych.md",
-    "usme/03-23cewkazopzonieniemprzywylaczaniu.md",
-    "usme/03-22cewkazopzonieniemprzyzalaczeniu.md",
-    "usme/02.BHP.md",
-    "usme/01.LekcjaOrg.md",
-    "usme",
-    "pl/18.ObrazSpołeczeństwaPolskiegoWLalce.md",
-    "pl/17.LalkaPracaZTekstem.md",
-    "niem/NIEM.md",
-    "niem",
-    "mat/matma.md",
-    "hit/05.JesienNarodow.md",
-    "hist/08.WojnaSecesyjnaUSA.md",
-    "hist/07.ZjednoczenieNiemiec.md",
-    "eie/33.Multiwibratory.md",
-    "chem/06.Alkeny.md",
-    "biol/02.UkladMoczowy.md"
+    "usme/03.SymboleIoznaczeniawUkładachStycznikowoPrzekaznikowych.md"
   ]
 }

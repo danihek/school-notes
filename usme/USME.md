@@ -22,3 +22,8 @@
 
 [[./11.Budowa_i_zasada_działania_silników_prądu_przemiennego.md]]
 
+[[./12.PoslizgSilnikaAsynchronicznego.md]]
+
+[[./13.Silnik_pierścieniowy.md]]
+
+[[./14.Rozruch_silnika.md]]

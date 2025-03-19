@@ -13,3 +13,7 @@
 [[./06.UkladySterowaniaSilnikamiElektrycznymi.md]]
 
 [[./07.Tabelka.md]]
+
+[[08.WzmacniaczeOperacyjne.md]]
+
+[[09.WzmacniaczeOperacyjneZAD.md]]
