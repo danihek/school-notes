@@ -27,3 +27,9 @@
 [[./13.Silnik_pierścieniowy.md]]
 
 [[./14.Rozruch_silnika.md]]
+
+[[./15.Silniki_Jednofazowe.md]]
+
+[[./16.MaszynySpecjalne.md]]
+
+[[./17.Energoelektronika.md]]

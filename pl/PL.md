@@ -42,4 +42,6 @@
 
 [[./20.SkadTyleSlowWPolszczyznie.md]]
 
-[[./21.md]]
+[[./21.PodsumowaniePotopu.md]]
+
+[[./22.ZasadyUstorjiPolski.md]]
