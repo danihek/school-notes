@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c28ecded4c2105d",
+        "id": "8adb6b6f6dba6c99",
         "type": "tabs",
         "children": [
           {
-            "id": "e8690f781777764e",
+            "id": "c1449f51bca4e4de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "peie/temp.md",
+                "file": "hist/13.Dzialania_Wojenne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,43 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "temp"
-            }
-          },
-          {
-            "id": "ccde91d11cf591b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "peie/old/08.WzmacniaczeOperacyjne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "08.WzmacniaczeOperacyjne"
-            }
-          },
-          {
-            "id": "2fd08619a602e7ab",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-03 11.42.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-03 11.42.29.excalidraw"
+              "title": "13.Dzialania_Wojenne"
             }
           }
         ]
@@ -124,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c07a458b637a19a6",
@@ -213,53 +176,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e8690f781777764e",
+  "active": "c1449f51bca4e4de",
   "lastOpenFiles": [
-    "peie/temp.md~",
-    "peie/old/08.WzmacniaczeOperacyjne.md",
-    "Excalidraw/Drawing 2025-03-03 11.42.29.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-10 12.47.17.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-17 12.54.19.excalidraw.md",
+    "usme/23.Filtry_wiadomosci_podstawowe.md",
+    "usme/23.Filtry_wiadomosci_podstawowe.md~",
+    "usme/img/23.06.png",
+    "usme/img/23.05.png",
+    "usme/img/23.02.png",
+    "usme/img/23.01.png",
+    "usme/img/23.04.png",
+    "usme/img/23.03.png",
+    "usme/22.Charakterystyki_częstotliwosci.md",
+    "usme/19.Wzmacniacze_Operacyjne_Wiadomosci_Postawowe.md",
+    "Untitled.md",
+    "usme/18.Terystorowe_Regulatory_Mocy.md",
+    "usme/20.Podstawowe_uklady_wzmacniaczy_operacyjnych.md",
+    "usme/17.Energoelektronika.md",
+    "usme/16.MaszynySpecjalne.md",
+    "usme/15.Silniki_Jednofazowe.md",
+    "img/15.01.png.md",
+    "img",
+    "usme/14.Rozruch_silnika.md",
+    "usme/13.Silnik_pierścieniowy.md",
+    "usme/img/14.02.png",
+    "usme/03.SymboleIoznaczeniawUkładachStycznikowoPrzekaznikowych.md",
+    "usme/12.PoslizgSilnikaAsynchronicznego.md",
+    "usme/11.Budowa_i_zasada_działania_silników_prądu_przemiennego.md",
+    "usme/10.Rodzaje_silników_prądu_stałego_oraz_oznaczenia_uzwojeń.md",
+    "usme/09.Silniki_Pradu_Stalego.md",
+    "usme/08.Maszyny_Elektryczne.md",
+    "usme/01.LekcjaOrg.md",
+    "pl/25.A_moze_boga_nie_ma.md",
+    "chem/12.Wlasciwosci_Alkoholi_Monohydroksylowych.md",
+    "chem/12.Wlasciwosci_Alkoholi_Monohydroksylowych.md~",
     "peie/temp.md",
-    "peie/old/PEIE.md",
-    "peie/08.WzmacniaczeOperacyjne.md",
+    "usme/img/18.04.png",
+    "Excalidraw/Drawing 2025-03-03 11.42.29.excalidraw.md",
+    "peie/old/08.WzmacniaczeOperacyjne.md",
+    "usme/img/18.03.png",
+    "usme/18.Terystorowe_Regulatory_Mocy.md~",
+    "peie/temp.md~",
+    "Excalidraw/Drawing 2025-03-10 12.47.17.excalidraw.md",
     "peie/old/zlyuklad.jpg",
-    "peie/old/wallhaven-9dqx2k.jpg",
-    "peie/old/stopnieochronyip.png",
     "peie/old/Sprawozdania/pomiary3.ods",
-    "peie/old/Sprawozdania/Sprawozdanie9.md",
-    "peie/old/Sprawozdania/Sprawozdanie7.md",
-    "peie/old/Sprawozdania/Sprawozdanie6.md",
-    "peie/old/Sprawozdania/Sprawozdanie5.md",
-    "peie/old/Sprawozdania/Sprawozdanie4.md",
-    "peie/old/Sprawozdania/Sprawozdanie3.md",
-    "peie/old/Sprawozdania/Sprawozdanie2.md",
-    "peie/old/Sprawozdania/Sprawozdanie10.md",
-    "peie/old/Sprawozdania/Sprawozdanie1.md",
     "peie/old/Sprawozdania",
-    "peie/old/schmat03.png",
-    "peie/old/klasyodpornoscinauderzenia.png",
-    "peie/old/instrukcja9.jpg",
-    "peie/old/instrukcja8.jpg",
-    "peie/old/instrukcja7.jpg",
-    "peie/old/instrukcja6.jpg",
-    "peie/old/instrukcja5.jpg",
-    "peie/old/10.WzmacniaczeOperacyjne3.md",
-    "peie/old/10.TransformatoryETC.md",
-    "peie/old/09.WzmacniaczeOperacyjneZAD.md",
-    "peie/old/07.Tabelka.md",
-    "peie/old/06.UkladySterowaniaSilnikamiElektrycznymi.md",
-    "peie/old/05.StopnieOchrony.md",
-    "peie/old/04.srodkiochrony.md",
-    "peie/old/03.notatka.md",
-    "peie/old/02.regulamin_pracowni.md",
     "peie/old",
     "usme/#15.Silniki_Jednofazowe.md#",
     "usme/15.Silniki_Jednofazowe.md~",
-    "usme/USME.md~",
-    "usme/14.Rozruch_silnika.md~",
-    "usme/4913",
-    "peie/10.WzmacniaczeOperacyjne3.md~",
     "Untitled.canvas"
   ]
 }

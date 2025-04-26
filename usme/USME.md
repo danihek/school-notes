@@ -33,3 +33,9 @@
 [[./16.MaszynySpecjalne.md]]
 
 [[./17.Energoelektronika.md]]
+
+[[./18.Terystorowe_Regulatory_Mocy.md]]
+
+[[./19.Wzmacniacze_Operacyjne_Wiadomosci_Postawowe.md]]
+
+[[./20.Podstawowe_uklady_wzmacniaczy_operacyjnych.md]]

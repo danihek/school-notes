@@ -11,3 +11,7 @@
 [[./05.JesienNarodow.md]]
 
 [[./06.PolskaPoczatekTransformacjiUstrojowej.md]]
+
+[[./07.KontrowersyjneZasadyUstrojuPolski.md]]
+
+[[./08.Wladza_ustawodawcza_w_Polsce.md]]
