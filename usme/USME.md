@@ -39,3 +39,11 @@
 [[./19.Wzmacniacze_Operacyjne_Wiadomosci_Postawowe.md]]
 
 [[./20.Podstawowe_uklady_wzmacniaczy_operacyjnych.md]]
+
+[[./21.Charalterystyki_statyczne_i_dynamiczne.md]]
+
+[[./22.Charakterystyki_częstotliwosci.md]]
+
+[[./23.Filtry_wiadomosci_podstawowe.md]]
+
+[[./24.FiltryAktywne.md]]
