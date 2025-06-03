@@ -40,6 +40,8 @@
 
 [[./20.Podstawowe_uklady_wzmacniaczy_operacyjnych.md]]
 
+[[./20.Uklady_WO.md]]
+
 [[./21.Charalterystyki_statyczne_i_dynamiczne.md]]
 
 [[./22.Charakterystyki_częstotliwosci.md]]
@@ -47,3 +49,9 @@
 [[./23.Filtry_wiadomosci_podstawowe.md]]
 
 [[./24.FiltryAktywne.md]]
+
+[[25.Podstawowe_elementy_Automatyki]]
+
+[[./26.AnalogoweCzujnikiPrzesuniecia.md]]
+
+[[./27.MostkiZrownowazoneNiezrownowazone.md]]
