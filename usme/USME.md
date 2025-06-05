@@ -38,8 +38,6 @@
 
 [[./19.Wzmacniacze_Operacyjne_Wiadomosci_Postawowe.md]]
 
-[[./20.Podstawowe_uklady_wzmacniaczy_operacyjnych.md]]
-
 [[./20.Uklady_WO.md]]
 
 [[./21.Charalterystyki_statyczne_i_dynamiczne.md]]
